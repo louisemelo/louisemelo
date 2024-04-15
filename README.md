@@ -7,7 +7,7 @@
         <img src="https://raw.githubusercontent.com/louisemelo/louisemelo/main/images/lou.png" alt="Awesome-Design-Tools"/>
 </p>
 
-
+**<br/>**
 ## About
 
 A developer passionate about technology and challenges (by the way, I'm motivated by them). I've worked with development for about 10 years and throughout this time I've been through many different scenarios and learned a lot from them!  
@@ -23,7 +23,7 @@ Currently, I work as a Senior Software Engineer at XP Inc, an important investme
 My biggest goal today is to develop more and more of my leadership skills.  
   
 Besides technology, God, family, music and pets are my passions! (:
-
+**<br/>**
 
 ## My skills✨
 
@@ -47,7 +47,7 @@ Besides technology, God, family, music and pets are my passions! (:
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> 
 
-
+**<br/>**
 ## Learning🔥
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -55,14 +55,14 @@ Besides technology, God, family, music and pets are my passions! (:
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white" /> 
 
-
+**<br/>**
 ## My Github Stats🦄
 
 ![Louise Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisemelo\&rank_icon=github) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisemelo\&layout=compact)
 
-
+**<br/>**
 
 ## Social💖
 
