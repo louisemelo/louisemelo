@@ -23,8 +23,9 @@ Currently, I work as a Senior Software Engineer at XP Inc, an important investme
 My biggest goal today is to develop more and more of my leadership skills.  
   
 Besides technology, God, family, music and pets are my passions! (:
-**<br/>**
 
+
+**<br/>**
 ## My skills✨
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-&logoColor=white" />
